@@ -8,6 +8,8 @@ spring:
       label: master
       profile: dev
 
+foo: foo version prod
+
 server:
   port: 8888
 
